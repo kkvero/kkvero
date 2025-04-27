@@ -26,6 +26,7 @@ The tools I use:
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/gnubash.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/vim.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/linux.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/leetcode.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/netlify.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/inkscape.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/coreldraw.svg" />
