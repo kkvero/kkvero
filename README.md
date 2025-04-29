@@ -11,6 +11,7 @@ The tools I use:
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/csswizardry.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/sass.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/django.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/htmx.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/hugo.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/sphinx.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/plotly.svg" />
