@@ -1,7 +1,7 @@
 ## Hi, I'm Veronika Kirichenko 👋
 
 - 🌱 I’m currently learning Pytorch.
-- 🎒 My [portfolio website](https://portfolio-kkvero.netlify.app/projects/portfolio/)
+- 🎒 My [portfolio website](https://portfolio-kkvero.netlify.app)
 - 📫 How to reach me: open an issue in one of my public repositories.
 
 The tools I use:  
