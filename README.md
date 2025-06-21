@@ -1,6 +1,6 @@
 ## Hi, I'm Veronika Kirichenko 👋
 
-- 🌱 I’m currently learning Pytorch.
+- 🌱 I’m currently learning Transformers, DevOps, Cloud.
 - 🎒 My [portfolio website](https://portfolio-kkvero.netlify.app)
 - 📫 How to reach me: open an issue in one of my public repositories.
 
